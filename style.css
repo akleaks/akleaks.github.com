@@ -51,7 +51,11 @@ body {
     padding: 0;
 }
 
-.entry-references li, .entry-tags li {
+.entry-tags li {
     float: left;
     margin-right: 10px;
+}
+
+.entry-references a, .entry-tags a {
+    text-decoration: none;
 }
