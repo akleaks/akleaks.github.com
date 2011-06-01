@@ -1,0 +1,3 @@
+﻿leak.txt dosyasını örnek formata uygun olarak düzenleyin. her leak'ten sonra örnekte olduğu gibi bir satır boş satır olsun.
+
+dosyayı istediğiniz zaman akleaks@hotmail.com adresine göndererek bize ulaştırabilirsiniz.

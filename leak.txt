@@ -1,0 +1,12 @@
+﻿/date/ 2011-05-11 şeklinde olayın gerçekleştiği tarih
+/title/ Olayın başlığı
+/content/ Olayla ilgili kısa açıklama. En fazla 3 cümle
+/tags/ etiket1,etiket2,etiket3 şeklinde olayı tanımlayan kategoriler (ekonomi,saglik,hukuk gibi)
+/links/ http://www.bilmemne.com,http://www.falanca.com şeklinde haberin yer aldığı kaynaklar
+
+/date/ 2011-05-11 şeklinde olayın gerçekleştiği tarih
+/title/ Olayın başlığı
+/content/ Olayla ilgili kısa açıklama. En fazla 3 cümle
+/tags/ etiket1,etiket2,etiket3 şeklinde olayı tanımlayan kategoriler (ekonomi,saglik,hukuk gibi)
+/links/ http://www.bilmemne.com,http://www.falanca.com şeklinde haberin yer aldığı kaynaklar
+
