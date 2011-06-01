@@ -23,6 +23,7 @@ body {
 
 .hentry {
     background: #fff;
+    background: -moz-linear-gradient(top, #fff, #f9f9f9);
     border: 1px solid #EEE9E6;
     border-radius: 10px;
     box-shadow: 0 0 1px #fff;
